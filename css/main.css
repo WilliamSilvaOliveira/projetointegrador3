@@ -1,0 +1,28 @@
+.content { /*centralização da pagina*/
+  max-width: 400px;
+  margin: auto;
+          }
+.login { /*estilização e posição do box onde vai as informações da pagina de login*/
+  padding: 1px;
+  margin: auto;
+  left:45%;
+  top:25%;
+  margin-left:-100px; 
+  margin-top:-40px; 
+  position:absolute;
+  width: 450px;
+  height: 450px;
+  background-color: rgba(206, 207, 221, 0.164)
+       }
+.cadastro { /*estilização e posição do box onde vai as informações da pagina de login*/
+  padding: 1px;
+  margin: auto;
+  left:45%;
+  top:25%;
+  margin-left:-100px; 
+  margin-top:-40px; 
+  position:absolute;
+  width: 1000px;
+  height: 450px;
+  background-color: rgba(206, 207, 221, 0.164)
+         }
